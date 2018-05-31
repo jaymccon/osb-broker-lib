@@ -14,7 +14,6 @@ import (
     "golang.org/x/crypto/bcrypt"
     "github.com/pmorie/osb-broker-lib/pkg/rest"
     auth "github.com/abbot/go-http-auth"
-    "fmt"
 )
 
 // Server is the server for the OSB REST API and the metrics API. A Server glues
