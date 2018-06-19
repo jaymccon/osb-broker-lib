@@ -12,7 +12,7 @@ import (
     prom "github.com/prometheus/client_golang/prometheus"
     "github.com/prometheus/client_golang/prometheus/promhttp"
     "golang.org/x/crypto/bcrypt"
-    "github.com/pmorie/osb-broker-lib/pkg/rest"
+    "github.com/jaymccon/osb-broker-lib/pkg/rest"
     auth "github.com/abbot/go-http-auth"
 )
 
